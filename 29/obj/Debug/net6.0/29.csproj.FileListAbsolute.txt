@@ -1,0 +1,15 @@
+C:\обучение\18.08\29\bin\Debug\net6.0\29.exe
+C:\обучение\18.08\29\bin\Debug\net6.0\29.deps.json
+C:\обучение\18.08\29\bin\Debug\net6.0\29.runtimeconfig.json
+C:\обучение\18.08\29\bin\Debug\net6.0\29.dll
+C:\обучение\18.08\29\bin\Debug\net6.0\29.pdb
+C:\обучение\18.08\29\obj\Debug\net6.0\29.csproj.AssemblyReference.cache
+C:\обучение\18.08\29\obj\Debug\net6.0\29.GeneratedMSBuildEditorConfig.editorconfig
+C:\обучение\18.08\29\obj\Debug\net6.0\29.AssemblyInfoInputs.cache
+C:\обучение\18.08\29\obj\Debug\net6.0\29.AssemblyInfo.cs
+C:\обучение\18.08\29\obj\Debug\net6.0\29.csproj.CoreCompileInputs.cache
+C:\обучение\18.08\29\obj\Debug\net6.0\29.dll
+C:\обучение\18.08\29\obj\Debug\net6.0\refint\29.dll
+C:\обучение\18.08\29\obj\Debug\net6.0\29.pdb
+C:\обучение\18.08\29\obj\Debug\net6.0\29.genruntimeconfig.cache
+C:\обучение\18.08\29\obj\Debug\net6.0\ref\29.dll
